@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "assets",
+      "default": false
+    },
+    {
+      "path": "config",
+      "default": false
+    },
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "50.0"
+}
